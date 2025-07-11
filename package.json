@@ -1,0 +1,16 @@
+{
+  "name": "superuser",
+  "version": "1.0.0",
+  "description": "theoretical boilerplate and workspace utility repository for a challenge involving the planning, development, and deployment of a new, functional MVP once a day for 2 weeks - sprints are condensed from 2 weeks to 5 hours.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.2.0",
+    "shelljs": "^0.10.0"
+  }
+}
